@@ -92,6 +92,16 @@ $$
 r(w, \gamma) = \frac{\tau(w, \gamma) + \mu \kappa(w, \gamma) }{1 + \mu}
 $$
 
+📚 Citation
+Optimized Convergence of Stochastic Gradient Descent by Weighted Averaging
+Melinda Hagedorn, Florian Jarre
+
+Subjects: Optimization and Control (math.OC)
+Cite as: arXiv:2209.14092 [math.OC]
+(or arXiv:2209.14092v3 [math.OC] for this version)
+
+https://doi.org/10.48550/arXiv.2209.14092
+
 ### 📝 Summary
 
 The parameter selection process is complex and context-dependent. The paper investigates optimal parameters for various iterations and condition numbers, adopting the best-performing parameters from the study.
