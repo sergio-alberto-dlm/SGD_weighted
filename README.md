@@ -92,7 +92,8 @@ $$
 r(w, \gamma) = \frac{\tau(w, \gamma) + \mu \kappa(w, \gamma) }{1 + \mu}
 $$
 
-📚 Citation
+### 📚 Citation
+
 Optimized Convergence of Stochastic Gradient Descent by Weighted Averaging
 Melinda Hagedorn, Florian Jarre
 
